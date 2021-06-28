@@ -1,0 +1,5 @@
+curl --request HEAD \
+  --url https://google.com/ \
+  --header 'Content-Type: application/x-www-form-urlencoded' \
+  --cookie '1P_JAR=2021-06-28-09; NID=218%3DkJ_E8Ux25KIFr2rQsLuncaCtDcXf0D8JBxjAWqInGVMOrLoB62b7XRhXH57d930wr7j3NsQQXUsfrXFxkVGvoEoWpn19rXMQ1lNj25gglEUwniUEk-91et72U6InXlXpi1YFaw0oDGBIvh5-5UFxzLl-Xw4Hv192Nwa2KChPb6s' \
+  --data message=test1
